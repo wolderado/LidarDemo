@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{02dfaa02-f576-19fc-eac3-3377fe641004}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AmplifyShaderEditor", "AmplifyShaderEditor.csproj", "{d2f96dcd-f8d6-3e72-bf15-6ab269e33d81}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02dfaa02-f576-19fc-eac3-3377fe641004}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02dfaa02-f576-19fc-eac3-3377fe641004}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02dfaa02-f576-19fc-eac3-3377fe641004}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02dfaa02-f576-19fc-eac3-3377fe641004}.Release|Any CPU.Build.0 = Release|Any CPU
+		{d2f96dcd-f8d6-3e72-bf15-6ab269e33d81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{d2f96dcd-f8d6-3e72-bf15-6ab269e33d81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{d2f96dcd-f8d6-3e72-bf15-6ab269e33d81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{d2f96dcd-f8d6-3e72-bf15-6ab269e33d81}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
